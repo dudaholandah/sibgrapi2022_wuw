@@ -1,6 +1,6 @@
 # SIBGRAPI WUW 2022
 
-This repository was created to support the article Food Data Analysis using Multidimensional Visualizations based on Point Placement written by Maria Eduarda M. de Holanda and Vinícius R. P. Borges.
+This repository was created to support the article Food Data Analysis using Multidimensional Visualizations based on Point Placement written by Maria Eduarda M. de Holanda and Vinícius R. P. Borges. FAPDF and ProIC/UnB supported this research.
 
 Dataset
 -------
